@@ -1,0 +1,16 @@
+c:\Nam 2\oop\HW1\bin\Debug\net11.0\HW1.exe
+C:\Nam 2\oop\HW1\bin\Debug\net11.0\HW1.deps.json
+C:\Nam 2\oop\HW1\bin\Debug\net11.0\HW1.runtimeconfig.json
+C:\Nam 2\oop\HW1\bin\Debug\net11.0\HW1.runtimeconfig.dev.json
+c:\Nam 2\oop\HW1\bin\Debug\net11.0\HW1.dll
+c:\Nam 2\oop\HW1\bin\Debug\net11.0\HW1.pdb
+c:\Nam 2\oop\HW1\obj\Debug\net11.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Nam 2\oop\HW1\obj\Debug\net11.0\HW1.AssemblyInfoInputs.cache
+c:\Nam 2\oop\HW1\obj\Debug\net11.0\HW1.AssemblyInfo.cs
+c:\Nam 2\oop\HW1\obj\Debug\net11.0\HW1.csproj.CoreCompileInputs.cache
+c:\Nam 2\oop\HW1\obj\Debug\net11.0\HW1.dll
+c:\Nam 2\oop\HW1\obj\Debug\net11.0\refint\HW1.dll
+c:\Nam 2\oop\HW1\obj\Debug\net11.0\HW1.pdb
+C:\Nam 2\oop\HW1\obj\Debug\net11.0\HW1.genruntimeconfig.cache
+C:\Nam 2\oop\HW1\obj\Debug\net11.0\ref\HW1.dll
+C:\Nam 2\oop\HW1\obj\Debug\net11.0\HW1.csproj.Up2Date
